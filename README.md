@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 3
-- **Easy:** 2 🟢
+- **Total Problems Solved:** 4
+- **Easy:** 3 🟢
 - **Medium:** 1 🟡
 - **Hard:** 0 🔴
 
@@ -15,6 +15,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |---------|-----------|----------|------|
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | 🟢 Easy | javascript | 2026-01-30 |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/1902870929/) | 🟢 Easy | javascript | 2026-01-31 |
+| [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/submissions/1902949382/) | 🟢 Easy | javascript | 2026-01-31 |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/submissions/1902845155/) | 🟡 Medium | javascript | 2026-01-31 |
 
 ---
