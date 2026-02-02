@@ -1,7 +1,7 @@
 /*
  * Problem: 169. Majority Element
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/majority-element/submissions/1905164763/
+ * Link: https://leetcode.com/problems/majority-element/description/
  * Language: javascript
  * Date: 2026-02-02
  */
