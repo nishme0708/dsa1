@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 12
-- **Easy:** 9 🟢
+- **Total Problems Solved:** 13
+- **Easy:** 10 🟢
 - **Medium:** 3 🟡
 - **Hard:** 0 🔴
 
@@ -14,6 +14,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
 | [1. Two Sum](https://leetcode.com/problems/two-sum/submissions/1904397296/) | 🟢 Easy | javascript | 2026-02-01 |
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1907975680/) | 🟢 Easy | javascript | 2026-02-04 |
 | [136. Single Number](https://leetcode.com/problems/single-number/submissions/1904182000/) | 🟢 Easy | javascript | 2026-02-01 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/submissions/1905164763/) | 🟢 Easy | javascript | 2026-02-02 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | 🟢 Easy | javascript | 2026-02-02 |
