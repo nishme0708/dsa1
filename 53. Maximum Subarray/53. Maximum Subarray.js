@@ -1,9 +1,9 @@
 /*
  * Problem: 53. Maximum Subarray
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/maximum-subarray/submissions/1905793562/
+ * Link: https://leetcode.com/problems/maximum-subarray/description/
  * Language: javascript
- * Date: 2026-02-02
+ * Date: 2026-02-04
  */
 
 /**
