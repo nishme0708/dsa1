@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 18
+- **Total Problems Solved:** 19
 - **Easy:** 10 🟢
-- **Medium:** 8 🟡
+- **Medium:** 9 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -28,6 +28,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/submissions/1908031746/) | 🟡 Medium | javascript | 2026-02-04 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/submissions/1910114184/) | 🟡 Medium | javascript | 2026-02-06 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | 🟡 Medium | javascript | 2026-02-04 |
+| [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/submissions/1910160590/) | 🟡 Medium | javascript | 2026-02-06 |
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1909894606/) | 🟡 Medium | javascript | 2026-02-06 |
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1910054133/) | 🟡 Medium | javascript | 2026-02-06 |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/submissions/1904431836/) | 🟡 Medium | javascript | 2026-02-01 |
