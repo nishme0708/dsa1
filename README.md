@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 20
+- **Total Problems Solved:** 21
 - **Easy:** 10 🟢
-- **Medium:** 10 🟡
+- **Medium:** 11 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -26,6 +26,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1909876545/) | 🟡 Medium | javascript | 2026-02-06 |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/submissions/1902845155/) | 🟡 Medium | javascript | 2026-01-31 |
 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/submissions/1908031746/) | 🟡 Medium | javascript | 2026-02-04 |
+| [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | javascript | 2026-02-07 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/submissions/1910114184/) | 🟡 Medium | javascript | 2026-02-06 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | 🟡 Medium | javascript | 2026-02-04 |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/submissions/1910160590/) | 🟡 Medium | javascript | 2026-02-06 |
