@@ -1,7 +1,7 @@
 /*
  * Problem: 206. Reverse Linked List
  * Difficulty: Easy
- * Link: https://leetcode.com/problems/reverse-linked-list/submissions/1911202537/
+ * Link: https://leetcode.com/problems/reverse-linked-list/
  * Language: javascript
  * Date: 2026-02-07
  */
@@ -31,3 +31,17 @@ var reverseList = function(head) {
     }
     return prev;
 };
+
+   reverseList1(head) {
+        if(head == null) {
+            return null;
+        }
+        if(head.next == null) {
+            return head;
+        }
+        let nhead = reverseList1(head.next);
+        // this is genius move using the same pointer to control the next one.
+        head.next.next = head;
+        head.next = null;
+        return nhead;
+    }
