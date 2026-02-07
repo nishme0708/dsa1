@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 23
-- **Easy:** 12 🟢
+- **Total Problems Solved:** 24
+- **Easy:** 13 🟢
 - **Medium:** 11 🟡
 - **Hard:** 0 🔴
 
@@ -19,6 +19,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [169. Majority Element](https://leetcode.com/problems/majority-element/submissions/1905164763/) | 🟢 Easy | javascript | 2026-02-02 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | 🟢 Easy | javascript | 2026-02-02 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/1911202537/) | 🟢 Easy | javascript | 2026-02-07 |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | javascript | 2026-02-07 |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | 🟢 Easy | javascript | 2026-01-30 |
 | [268. Missing Number](https://leetcode.com/problems/missing-number/description/) | 🟢 Easy | javascript | 2026-02-01 |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/1902870929/) | 🟢 Easy | javascript | 2026-01-31 |
