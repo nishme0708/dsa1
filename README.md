@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 28
+- **Total Problems Solved:** 29
 - **Easy:** 15 🟢
-- **Medium:** 13 🟡
+- **Medium:** 14 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -33,6 +33,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/submissions/1902845155/) | 🟡 Medium | javascript | 2026-01-31 |
 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/submissions/1908031746/) | 🟡 Medium | javascript | 2026-02-04 |
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | javascript | 2026-02-07 |
+| [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/submissions/1912372807/) | 🟡 Medium | javascript | 2026-02-08 |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/submissions/1912372807/) | 🟡 Medium | javascript | 2026-02-08 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/submissions/1910114184/) | 🟡 Medium | javascript | 2026-02-06 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | 🟡 Medium | javascript | 2026-02-04 |
