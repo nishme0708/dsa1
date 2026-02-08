@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 30
+- **Total Problems Solved:** 31
 - **Easy:** 15 🟢
-- **Medium:** 15 🟡
+- **Medium:** 16 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -31,6 +31,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1909876545/) | 🟡 Medium | javascript | 2026-02-06 |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/1912262621/) | 🟡 Medium | javascript | 2026-02-08 |
 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/submissions/1902845155/) | 🟡 Medium | javascript | 2026-01-31 |
+| [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1912388550/) | 🟡 Medium | javascript | 2026-02-08 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1912388550/) | 🟡 Medium | javascript | 2026-02-08 |
 | [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/submissions/1908031746/) | 🟡 Medium | javascript | 2026-02-04 |
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | javascript | 2026-02-07 |
