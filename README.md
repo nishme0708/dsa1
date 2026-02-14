@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 32
+- **Total Problems Solved:** 33
 - **Easy:** 15 🟢
-- **Medium:** 17 🟡
+- **Medium:** 18 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -45,6 +45,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1909894606/) | 🟡 Medium | javascript | 2026-02-06 |
 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/1910054133/) | 🟡 Medium | javascript | 2026-02-06 |
 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/submissions/1904431836/) | 🟡 Medium | javascript | 2026-02-01 |
+| [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/submissions/1919113690/) | 🟡 Medium | javascript | 2026-02-14 |
 
 ---
 
