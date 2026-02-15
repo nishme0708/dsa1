@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 33
+- **Total Problems Solved:** 34
 - **Easy:** 15 🟢
-- **Medium:** 18 🟡
+- **Medium:** 19 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -39,6 +39,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/submissions/1912372807/) | 🟡 Medium | javascript | 2026-02-08 |
 | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/submissions/1912372807/) | 🟡 Medium | javascript | 2026-02-08 |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/submissions/1910114184/) | 🟡 Medium | javascript | 2026-02-06 |
+| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | 🟡 Medium | javascript | 2026-02-15 |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | 🟡 Medium | javascript | 2026-02-04 |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/submissions/1910160590/) | 🟡 Medium | javascript | 2026-02-06 |
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/1910183320/) | 🟡 Medium | javascript | 2026-02-06 |
