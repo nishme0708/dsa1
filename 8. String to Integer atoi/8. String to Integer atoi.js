@@ -1,9 +1,9 @@
 /*
  * Problem: 8. String to Integer (atoi)
  * Difficulty: Medium
- * Link: https://leetcode.com/problems/string-to-integer-atoi/submissions/1919113690/
+ * Link: https://leetcode.com/problems/string-to-integer-atoi/description/
  * Language: javascript
- * Date: 2026-02-14
+ * Date: 2026-02-15
  */
 
 /**
